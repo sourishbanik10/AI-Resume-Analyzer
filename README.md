@@ -1,5 +1,8 @@
 🤖 AI Resume Analyzer
 
+Live app link:
+https://ai-resume-analyzer-hruzgdtrkrndxrlkybfbaz.streamlit.app/
+
 An AI-powered Resume Analysis and Job Matching System that evaluates resumes against job descriptions using Natural Language Processing (NLP), Machine Learning, and Vector Similarity.
 
 The application provides ATS scores, skill gap analysis, salary estimation, job recommendations, and AI-driven resume improvement suggestions.
