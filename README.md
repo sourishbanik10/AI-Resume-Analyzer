@@ -1,7 +1,7 @@
 🤖 AI Resume Analyzer
 
 Live app link:
-https://ai-resume-analyzer-hruzgdtrkrndxrlkybfbaz.streamlit.app/
+https://ai-resume-analyzer-f5ocgbwezw4vxzt8uayokz.streamlit.app/
 
 An AI-powered Resume Analysis and Job Matching System that evaluates resumes against job descriptions using Natural Language Processing (NLP), Machine Learning, and Vector Similarity.
 
