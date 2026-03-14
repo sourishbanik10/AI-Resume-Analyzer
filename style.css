@@ -1,0 +1,53 @@
+/* App background */
+.stApp {
+    background: linear-gradient(135deg,#0f172a,#1e293b);
+    color: white;
+}
+
+/* Title styling */
+h1 {
+    text-align: center;
+    font-weight: 700;
+}
+
+/* Subheaders */
+h2, h3 {
+    color: #cbd5f5;
+}
+
+/* Buttons */
+.stButton>button {
+    background: linear-gradient(90deg,#6366f1,#8b5cf6);
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: none;
+    font-weight: 600;
+}
+
+/* File uploader */
+[data-testid="stFileUploader"] {
+    background: rgba(255,255,255,0.05);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+/* Text area */
+textarea {
+    background: rgba(255,255,255,0.05);
+    color: white;
+}
+
+/* Skill tags */
+.skill-tag {
+    display: inline-block;
+    background: #22c55e;
+    padding: 6px 12px;
+    margin: 4px;
+    border-radius: 20px;
+    font-size: 13px;
+}
+
+.missing-tag {
+    background: #ef4444;
+}
